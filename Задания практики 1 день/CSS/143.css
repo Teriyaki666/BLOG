@@ -1,0 +1,20 @@
+.TOP {
+	transform: rotate(calc(3turn + 90deg));
+	width: calc(100% / 3);
+	margin-left: calc(50px + 10px);
+	border: solid black calc(9px - 3px);
+}
+
+.DIV {
+	font-size: calc(5% + 20px);
+	padding-left: calc(30px - 10px);
+	padding-top: calc(40px / 2);
+	border-bottom: solid pink calc(2px * 4);
+}
+
+.PD {
+	padding: calc(100% * 2);
+	width: calc(100% / 3);
+	margin-left: calc(50px + 10px);
+	border: solid black calc(9px - 3px);
+}
